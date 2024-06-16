@@ -12,7 +12,7 @@ This script scrapes Reddit for all past posts mentioning "hungarian paprika" and
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:nadunsilv/reddit_scraper.git
+    git clone https://github.com/nadunsilv/reddit_scraper.git
     cd reddit_scraper
     ```
 
